@@ -1,4 +1,4 @@
-module training/greeting
+module github.com/watanabetatsumi/module_practice/training/greeting
 
 go 1.18
 
