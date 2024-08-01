@@ -3,7 +3,7 @@ package greeting
 import (
 	"log"
 
-	"training/greeting/hello"
+	"greeting/hello"
 )
 
 func Hello(msg string) string {

@@ -1,3 +1,3 @@
-module training/greeting/hello
+module greeting/hello
 
 go 1.18

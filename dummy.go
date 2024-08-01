@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"sync"
-	"github.com/watanabetatsumi/module_practice/training/greeting"
+	"github.com/watanabetatsumi/module_practice/greeting"
 )
 
 func main() {
