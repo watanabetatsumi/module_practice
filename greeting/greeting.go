@@ -5,7 +5,6 @@ import (
     "fmt"
 
 	"github.com/watanabetatsumi/module_practice/greeting/hello"
-
 	hellohello "github.com/watanabetatsumi/module_practice/greeting/sample"
 )
 
