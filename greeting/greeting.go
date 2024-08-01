@@ -2,8 +2,11 @@ package greeting
 
 import (
 	"log"
+    "fmt"
 
 	"greeting/hello"
+
+	hellohello "github.com/watanabetatsumi/module_practice/greeting/sample"
 )
 
 func Hello(msg string) string {
@@ -14,6 +17,11 @@ func Hello(msg string) string {
     if err != nil {
         log.Fatal(err)
     }
+    message2, err := hellohello.Greet(msg)
+    if err != nil {
+        log.Fatal(err)
+    }
+    fmt.Printf("%s",message2)
 
     return message
 }

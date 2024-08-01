@@ -4,5 +4,6 @@ module github.com/watanabetatsumi/module_practice/main
 
 go 1.18
 
-
 // replace training/greeting/hello => ./greeting/hello
+
+require github.com/watanabetatsumi/module_practice/greeting v0.0.0-20240801021044-83fe678747cc
