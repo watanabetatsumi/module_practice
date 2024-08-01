@@ -4,7 +4,7 @@ import (
 	"log"
     "fmt"
 
-	"greeting/hello"
+	"github.com/watanabetatsumi/module_practice/greeting/hello"
 
 	hellohello "github.com/watanabetatsumi/module_practice/greeting/sample"
 )
